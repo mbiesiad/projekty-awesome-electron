@@ -2,32 +2,32 @@
 
 [<img src="electron-logo.svg" align="right" width="100">](https://electronjs.org)
 
-> Useful resources for creating apps with [Electron](https://electronjs.org)
+> Przydatne zasoby do tworzenia aplikacji za pomocą [Electron](https://electronjs.org)
+:fire:
+- [Kto zatrudnia?](https://github.com/sindresorhus/awesome-electron/issues/612)
+- [Kto chce zostać zatrudniony?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
-- [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
-- [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
+## Zawartość
 
-## Contents
-
-- [Apps](#apps)
+- [Aplikacje](#aplikacje)
 - [Boilerplates](#boilerplates)
-- [Tools](#tools)
-- [Components](#components)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Related](#related)
+- [Narzędzia](#narzędzia)
+- [Komponenty](#komponenty)
+- [Dokumentacja](#dokumentacja)
+- [Artykuły](#artykuły)
+- [Książki](#książki)
+- [Materiały wideo](#materiały-wideo)
+- [Podcasty](#podcasty)
+- [Społeczność](#społeczność)
+- [Powiązane](#powiązane)
 
-## Apps
+## Aplikacje
 
-Made with Electron.
+Stworzone z Electron.
 
 ### Open Source
 
-###### Featured
+###### Polecane
 
 - [Beaker](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 - [Hyper](https://github.com/zeit/hyper) - Terminal.
@@ -39,7 +39,7 @@ Made with Electron.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 
-###### Other
+###### Inne
 
 - [Git-it](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
@@ -246,9 +246,9 @@ Made with Electron.
 - [secure-electron-template](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 - [angular-electron](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
-## Tools
+## Narzędzia
 
-### For Electron
+### Dla Electron
 
 - [electron-builder](https://github.com/electron-userland/electron-builder) - Create installers.
 - [devtron](https://github.com/electron/devtron) - Official DevTools extension.
@@ -322,7 +322,7 @@ Made with Electron.
 - [electron-create-menu](https://github.com/kilian/electron-create-menu) - Default menus for all platforms, easily extendable, and with i18n support.
 - [electronegativity](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
-### Using Electron
+### Korzystanie z Electron
 
 - [devtool](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create an app of any website.
@@ -336,7 +336,7 @@ Made with Electron.
 - [Reactotron](https://github.com/reactotron/reactotron) - Inspect your React and React Native apps.
 - [jest-electron](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
-## Components
+## Komponenty
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
@@ -350,13 +350,13 @@ Made with Electron.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) - Build and manage UI components with Photon and Etch.
 - [Xel](https://xel-toolkit.org) - Widget toolkit for building native-like apps.
 
-## Documentation
+## Dokumentacja
 
 - [Quick Start](https://electronjs.org/docs/tutorial/quick-start)
 - [Official docs](https://electronjs.org/docs)
 - [Essential Electron](http://jlord.us/essential-electron/) - Concise overview.
 
-## Articles
+## Artykuły
 
 - [Electron Fundamentals](http://maxogden.com/electron-fundamentals.html)
 - [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
@@ -372,13 +372,13 @@ Made with Electron.
 - [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - How to collect anonymous user statistics.
 - [Notarizing your Electron app](https://kilianvalkhof.com/2019/electron/notarizing-your-electron-application/) - How to configure your app packaging for Apple's notarization.
 
-## Books
+## Książki
 
 - [Developing an Electron Edge](https://bleedingedgepress.com/developing-an-electron-edge/) - [Preview](https://read.amazon.com/kp/embed?asin=B01G7TTKSK&asin=B01G7TTKSK&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_DLhOxb0XZ3MEC) 💲
 - [Electron in Action](https://www.manning.com/books/electron-in-action?a_aid=electroninaction) 💲
 - [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications) 💲
 
-## Videos
+## Materiały wideo
 
 - [Getting Started with Electron 1.x](https://www.youtube.com/watch?v=jKzBJAowmGg)
 - [Packaging and Distributing Electron Desktop Apps](https://www.youtube.com/watch?v=dz5SnmBzBXc)
@@ -396,7 +396,7 @@ Made with Electron.
 - [Electron Meetup SF, November 2017](https://www.youtube.com/watch?v=DDjVaHPvRdM) - Includes some good talks on improving app startup time, debugging crashes, etc.
 - [Make Your Electron App Feel at Home Everywhere](https://www.youtube.com/watch?v=fw4PmPaghyU) - Tips on making your app feel more native on macOS, Windows, and Linux without sacrificing your own style.
 
-## Podcasts
+## Podcasty
 
 - [JavaScript Jabber: Electron with Jessica Lord and Amy Palamountain](https://devchat.tv/js-jabber/193-jsj-electron-with-jessica-lord-and-amy-palamountain)
 - [Hanselminutes: Creating cross-platform Electron apps with Jessica Lord](http://hanselminutes.com/534/creating-cross-platform-electron-apps-with-jessica-lord)
@@ -404,7 +404,7 @@ Made with Electron.
 - [The Changelog #216: GitHub's Electron with Zeke Sikelianos](https://changelog.com/216/)
 - [Full Stack Radio #48: Jessica Lord - Building Desktop Apps with Electron](http://www.fullstackradio.com/48)
 
-## Community
+## Społeczność
 
 - [Discuss](https://discuss.atom.io/c/electron)
 - [Reddit](https://www.reddit.com/r/electronjs)
@@ -419,10 +419,13 @@ Made with Electron.
 - [`electronjs` on Facebook](https://www.facebook.com/groups/electronjs/)
 - [Product Hunt](https://www.producthunt.com/@sindresorhus/collections/electron-apps)
 
-## Contribute
+## Współtworzenie
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Współtworzenie jest mile widziane! Przeczytaj najpierw [contribution guidelines](contributing.md).
 
-## Related
+## Powiązane
 
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-nodejs](https://github.com/mbiesiad/Projekty-Awesome-Nodejs)
+
+_________________________________________
+Stworzone przez @[sindresorhus](https://github.com/sindresorhus) polska wersja od @[mbiesiad](https://github.com/mbiesiad)
